@@ -44,7 +44,7 @@ Siga os passos abaixo para a instalação do projeto em sua máquina:
 5. Rode o comando `npm run dev` para executar o projeto em ambiente de desenvolvimento (a API utilizada será a que está em produção).
 
 Para testar as rotas é preciso ter instalado o [insomnia](https://insomnia.rest/download) em sua maquina.
-Após ter ele instalado é preciso mapear as rotas da api, baixe o arquivo [insomnia_model.json]({{file name='insomnia_model.json'}}) depois faça a importação das rotas
+Após ter ele instalado é preciso mapear as rotas da api, utilie o arquivo chamado insomnia_model.json para faer a importação das rotas
 dentro do insomnia.
 
 
